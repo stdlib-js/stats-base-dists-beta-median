@@ -70,7 +70,7 @@ where `α > 0` is the first shape parameter and `β > 0` is the second shape par
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-median@v0.2.0-esm/index.mjs';
 ```
 
 #### median( alpha, beta )
@@ -146,7 +146,7 @@ v = median( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-median@v0.2.0-esm/index.mjs';
 
 var alpha;
 var beta;
