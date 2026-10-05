@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-10-05)
+
+<section class="features">
+
+### Features
+
+-   [`141692a`](https://github.com/stdlib-js/stdlib/commit/141692ab9d3a2009e0386684707206b5c7c2e2f2) - add C implementation for `stats/base/dists/beta/median` [(#15387)](https://github.com/stdlib-js/stdlib/pull/15387)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`141692a`](https://github.com/stdlib-js/stdlib/commit/141692ab9d3a2009e0386684707206b5c7c2e2f2) - **feat:** add C implementation for `stats/base/dists/beta/median` [(#15387)](https://github.com/stdlib-js/stdlib/pull/15387) _(by Philipp Burckhardt, Karan Anand)_
 -   [`a9cfa23`](https://github.com/stdlib-js/stdlib/commit/a9cfa239b23fce770c9bb7a6f35ce073fc807020) - **test:** migrate `stats/base/dists/beta/median` to ULP-based assertions [(#14174)](https://github.com/stdlib-js/stdlib/pull/14174) _(by Athan Reines)_
 -   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
@@ -27,9 +38,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
